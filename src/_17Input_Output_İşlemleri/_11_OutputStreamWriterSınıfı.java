@@ -4,7 +4,7 @@ package _17Input_Output_İşlemleri;
 import java.io.FileOutputStream;
 import java.io.OutputStreamWriter;
 
-public class OutputStreamWriterSınıfı {
+public class _11_OutputStreamWriterSınıfı {
     public static void main(String[] args) {
         String data = "ĞÜİŞ";
 
