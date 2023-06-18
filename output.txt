@@ -1,1 +1,1 @@
-Java öğrenmeye devam ediyorum
+Java BufferedWriter sınıfı öğreniyorum.
